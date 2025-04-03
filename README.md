@@ -2,7 +2,7 @@
 
 My name is LateKnight and I am intrested in DevOps, Software, and Information Sciences 
 
-- 🔭 I’m currently working on DevOps for current employyer Automating Report generation. (Data and Graphs)
+- 🔭 I’m currently working on DevOps for current employer: Automating Report generation. (Data and Graphs)
 - 🌱 I’m currently learning Git, Bash, and more python!!!
 - 👯 I’m looking to collaborate on more projets 
 
